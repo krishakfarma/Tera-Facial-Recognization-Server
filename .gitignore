@@ -1,0 +1,13 @@
+# Ignore image files
+*.png
+
+# Ignore virtual environment
+venv/
+
+# Ignore logs and temporary output files
+logs/
+out.zip
+out/
+
+# Ignore cache files
+__pycache__/
